@@ -1,1 +1,1 @@
-# cloneinstagram
+Bootstrap dersi Instagram Clone ödevi
